@@ -2,8 +2,11 @@
 Udacity nano-degree projects:
 
 Finding Lane Lines on the Road
+
 Traffic Sign Classifier
+
 Behavioral Cloning
+
 Advanced Lane Finding
 Extended Kalman Filters
 Kidnapped Vehicle
