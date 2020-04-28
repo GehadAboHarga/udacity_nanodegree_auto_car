@@ -8,8 +8,14 @@ Traffic Sign Classifier
 Behavioral Cloning
 
 Advanced Lane Finding
+
 Extended Kalman Filters
+
 Kidnapped Vehicle
+
 Path Planning Project
+
 PID Controller
+
 Programming a Real Self-Driving Car
+
